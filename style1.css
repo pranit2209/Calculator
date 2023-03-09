@@ -1,0 +1,58 @@
+.container{
+
+    text-align: center;
+    height: 100vh;
+    padding-top: 100px;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/200/903/718/black-board-formula-wallpaper-preview.jpg");
+    background-size:cover;
+    
+}
+
+table{
+    margin:0%;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/200/903/718/black-board-formula-wallpaper-preview.jpg");
+    
+}
+
+input{
+    border-radius: 21px;
+    border: 5px solid #ffffff;
+    background-color: rgb(106, 100, 100);
+    text-align: right ;
+    font-size:34px;
+    height: 75px;
+    width: 336px;
+    
+    
+}
+
+button{
+    border-radius: 20px;
+    border-color: #fffefe;
+    font-size: 40px;
+    color: #fffefe;;
+    background: #978fa0;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/200/903/718/black-board-formula-wallpaper-preview.jpg");
+    
+}
+
+.calculator{ 
+    border: 10px solid #ffffff;
+    background-color: #113d56;
+    padding: 23px;
+    border-radius: 10px;
+    display: inline-block;
+    grid-template-columns: repeat(4,200);
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/200/903/718/black-board-formula-wallpaper-preview.jpg");
+    
+    
+}
+
+h1{
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Courier, monospace;
+    color: azure;
+}
